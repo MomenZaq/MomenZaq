@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Momen 💻
 
-<!--
-**MomenZaq/MomenZaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer | Software Engineering
 
-Here are some ideas to get you started:
+A simple geek of Android development and I have been preparing myself to be a highly skilled developer in Android and I learn new stuff every day to be on top of Android technologies, best practices, and convey the latest techniques in Android.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building great software and helping others do the same.
+
+I started my career in Computer Engineering in 2013 and I like what I do, Now my favorite activity is learning and developing.
+My day can not pass without learning or coding!
+I love challenges and the best challenge for me is to challenge my self to be better and help people.
+
+## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- LinkedIn <a href="https://www.linkedin.com/in/momen-zaqout-30b769142/">LinkedIn</a> ✍🏾 💼
+- Twitter <a href="https://twitter.com/ZaqoutMomen">Twitter</a> ✍🏾 💼
